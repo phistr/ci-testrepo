@@ -5,7 +5,7 @@ for how the downloads plugin and site plugin are configured.
 
 # Getting started
 c
-* Fork this project
+* Fork this projectdf
 * Update the `pom.xml` file `<url>` element to befdg the address of your fork
 * Optionally update `<scm>` and `<developers>` section as well to have the information for your fork
 * Add the following to your Maven `settings.xml` file updated with your GitHub login name and password:
